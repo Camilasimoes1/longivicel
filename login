@@ -66,5 +66,5 @@
         <div style="left: 53.23px; top: 10px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 500; word-wrap: break-word">ENTRAR</div>
     </div>
     
-<img style="width: 354px; height: 91px; left: 526px; top: 7px; position: absolute" src="https://placehold.co/354x91" />
+<img style="width: 354px; height: 91px; left: 526px; top: 7px; position: absolute" src="https://github.com/Camilasimoes1/longivicel/blob/main/87bb6f3732eadf3ef7881914f4ab331a5cdd888c.png?raw=true" />
 </div>

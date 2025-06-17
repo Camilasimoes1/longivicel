@@ -1,0 +1,70 @@
+<div style="width: 1440px; height: 1024px; position: relative; background: #D8D8D8; overflow: hidden">
+    <div style="width: 1440px; height: 725px; left: 0px; top: 104px; position: absolute; background: #4A6085; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset"></div>
+    <div style="width: 1440px; height: 104px; left: 0px; top: 0px; position: absolute; background: #F5F6F6"></div>
+    <div data-property-1="QUEM SOMOS" style="width: 112px; height: 19px; left: 286px; top: 57px; position: absolute">
+        <div style="left: 0px; top: 0px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">QUEM SOMOS</div>
+    </div>
+    <div data-property-1="QUEM SOMOS" style="width: 112px; height: 19px; left: 429px; top: 57px; position: absolute">
+        <div style="left: 0px; top: 0px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">PRODUTOS</div>
+    </div>
+    <div data-property-1="QUEM SOMOS" style="width: 89px; height: 19px; left: 900px; top: 57px; position: absolute">
+        <div style="left: 0px; top: 0px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">EDUCAÇÃO</div>
+    </div>
+    <div data-property-1="QUEM SOMOS" style="width: 99px; height: 18px; left: 1020px; top: 57px; position: absolute">
+        <div style="left: 0px; top: 0px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">CONTATO</div>
+    </div>
+    <div style="width: 1440px; height: 200px; left: 0px; top: 824px; position: absolute; background: #8A9283"></div>
+    <div data-property-1="QUEM SOMOS" style="width: 152px; height: 19px; left: 449px; top: 865px; position: absolute">
+        <div style="left: 0px; top: 0px; position: absolute; color: black; font-size: 20px; font-family: Inter; font-weight: 500; word-wrap: break-word">QUEM SOMOS</div>
+    </div>
+    <div data-property-1="QUEM SOMOS" style="width: 70px; height: 21px; left: 449px; top: 909px; position: absolute">
+        <div style="left: 0px; top: 0px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">Historia</div>
+    </div>
+    <div data-property-1="QUEM SOMOS" style="width: 60px; height: 19px; left: 449px; top: 940px; position: absolute">
+        <div style="left: 0px; top: 0px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">Criador</div>
+    </div>
+    <div data-property-1="QUEM SOMOS" style="width: 45px; height: 19px; left: 449px; top: 972px; position: absolute">
+        <div style="left: 0px; top: 0px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">Visão</div>
+    </div>
+    <div data-property-1="QUEM SOMOS" style="width: 124px; height: 19px; left: 636px; top: 865px; position: absolute">
+        <div style="left: 0px; top: 0px; position: absolute; color: black; font-size: 20px; font-family: Inter; font-weight: 500; word-wrap: break-word">PRODUTOS</div>
+    </div>
+    <div data-property-1="QUEM SOMOS" style="width: 101px; height: 17px; left: 635px; top: 911px; position: absolute">
+        <div style="left: 0px; top: 0px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">Suplementos</div>
+    </div>
+    <div data-property-1="QUEM SOMOS" style="width: 84px; height: 19px; left: 636px; top: 940px; position: absolute">
+        <div style="left: 0px; top: 0px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">Vitaminas</div>
+    </div>
+    <div data-property-1="QUEM SOMOS" style="width: 111px; height: 19px; left: 636px; top: 972px; position: absolute">
+        <div style="left: 0px; top: 0px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">Personalizado</div>
+    </div>
+    <div data-property-1="QUEM SOMOS" style="width: 119px; height: 24px; left: 795px; top: 865px; position: absolute">
+        <div style="left: 0px; top: 0px; position: absolute; color: black; font-size: 20px; font-family: Inter; font-weight: 500; word-wrap: break-word">EDUCAÇÃO</div>
+    </div>
+    <div data-property-1="QUEM SOMOS" style="width: 108px; height: 24px; left: 946px; top: 865px; position: absolute">
+        <div style="left: 0px; top: 0px; position: absolute; color: black; font-size: 20px; font-family: Inter; font-weight: 500; word-wrap: break-word">CONTATO</div>
+    </div>
+    <div data-property-1="QUEM SOMOS" style="width: 59px; height: 19px; left: 795px; top: 911px; position: absolute">
+        <div style="left: 0px; top: 0px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">EBooks</div>
+    </div>
+    <div data-property-1="QUEM SOMOS" style="width: 89px; height: 18px; left: 795px; top: 941px; position: absolute">
+        <div style="left: 0px; top: 0px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">Seminarios</div>
+    </div>
+    <div style="width: 570px; height: 602px; left: 784px; top: 163px; position: absolute; background: white; box-shadow: 0px 4px 10.600000381469727px rgba(0, 0, 0, 0.25); border-radius: 16px"></div>
+    <div style="left: 986px; top: 231px; position: absolute; color: black; font-size: 36px; font-family: JejuGothic; font-weight: 400; word-wrap: break-word">Inscrição</div>
+    <div style="width: 426px; height: 68px; left: 848px; top: 280px; position: absolute; background: #D8D8D8; border-radius: 21px; border: 1px black solid"></div>
+    <div style="width: 426px; height: 68px; left: 848px; top: 368px; position: absolute; background: #D9D9D9; border-radius: 21px; border: 1px black solid"></div>
+    <div style="width: 426px; height: 68px; left: 848px; top: 456px; position: absolute; background: #D9D9D9; border-radius: 21px; border: 1px black solid"></div>
+    <div style="left: 869px; top: 306px; position: absolute; color: black; font-size: 16px; font-family: JejuGothic; font-weight: 400; word-wrap: break-word">Nome</div>
+    <div style="left: 874px; top: 394px; position: absolute; color: black; font-size: 16px; font-family: JejuGothic; font-weight: 400; word-wrap: break-word">Email</div>
+    <div data-property-1="Component 3" style="width: 178px; height: 44px; left: 972px; top: 652px; position: absolute">
+        <div style="width: 178px; height: 44px; left: 0px; top: 0px; position: absolute; background: #4A6085; border-radius: 8px"></div>
+        <div style="left: 49.61px; top: 10px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 500; word-wrap: break-word">ENVIAR</div>
+    </div>
+    <div style="width: 426px; height: 68px; left: 848px; top: 544px; position: absolute; background: #D9D9D9; border-radius: 21px; border: 1px black solid"></div>
+    <div style="left: 877px; top: 570px; position: absolute; color: black; font-size: 16px; font-family: JejuGothic; font-weight: 400; word-wrap: break-word">Senha</div>
+    <div style="left: 877px; top: 482px; position: absolute; color: black; font-size: 16px; font-family: JejuGothic; font-weight: 400; word-wrap: break-word">CPF</div>
+   
+    <img class="banner" style="width: 728px; height: 365px; left: 32px; top: 297px; position: absolute" src="https://github.com/Camilasimoes1/longivicel/blob/main/e7d6562039d2e698df8216c8b12b31c68eb41532.png?raw=true" />
+    <img class="logo" style="width: 354px; height: 91px; left: 559px; top: 13px; position: absolute" src="https://github.com/Camilasimoes1/longivicel/blob/main/87bb6f3732eadf3ef7881914f4ab331a5cdd888c.png?raw=true" />
+</div>

@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -5,604 +6,1358 @@
   	<meta name="viewport" content="initial-scale=1, width=device-width">
   	
   	<link rel="stylesheet"  href="./index.css" />
-  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inknut Antiqua:wght@400&display=swap" />
-  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inder:wght@400&display=swap" />
-  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Istok Web:wght@700&display=swap" />
-  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Holtwood One SC:wght@400&display=swap" />
-  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inria Serif:wght@700&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inika:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM FELL Great Primer:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inria Sans:wght@700&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JejuGothic:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inknut Antiqua:wght@400;800&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Georama:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Iceland:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Irish Grover:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Jaldi:wght@400;700&display=swap" />
   	
   	
   	
 </head>
 <body>
   	
-  	<div class="wireframe-1">
-    		<div class="wireframe-1-child">
+  	<div class="homepage">
+    		<div class="homepage-child">
     		</div>
-    		<img class="m-removebg-preview-2-icon" alt="cocada" src="https://github.com/Camilasimoes1/quero-final/blob/main/24a393d7bf011e76345d7888b6b214c807a13332.png?raw=true">
+    		<div class="homepage-item">
+    		</div>
+    		<img class="cumlaude-lab-ginenatal-forte-3-icon" alt="banner" src="https://github.com/Camilasimoes1/longivicel/blob/main/2dd1757d4c94130dc2730da449e8541fe84685de.png?raw=true">
     		
-    		<div class="sorvetes">Sorvetes</div>
-    		<div class="wireframe-1-item">
-    		</div>
-    		<div class="chocolate">Chocolate</div>
-    		<div class="wireframe-1-inner">
-    		</div>
-    		<div class="morango">Morango</div>
+    		<div class="elementos-essenciais-para">Elementos Essenciais para uma Vida Saudável</div>
+    		<div class="um-caminho-para">UM CAMINHO PARA LONGEVIDADE FÍSICA E MENTAL</div>
+    		<b class="combo-da-sade">COMBO DA SAÚDE</b>
+    		<img class="homepage-inner" alt="quemsomos" src="https://github.com/Camilasimoes1/longipet/blob/main/82210795f79a552cc9bc65b3b2b0e10316d11e86.jpg?raw=true">
+    		
+    		<div class="quem-somos">QUEM SOMOS</div>
+    		<img class="group-of-young-happy-fit-peopl-icon" alt="bannerpessoas" src="https://github.com/Camilasimoes1/longivicel/blob/main/722d28e317c67de1d5dfb78bd99fd0a737183ff2.jpg?raw=true">
+    		
+    		<img class="senior-couple-running-park-smi-icon" alt="bannerpessoas2" src="https://github.com/Camilasimoes1/longivicel/blob/main/424f4eea59347dfbb75c796b103e41418ec72035.png?raw=true">
+    		
     		<div class="rectangle-div">
     		</div>
-    		<div class="graviol">Graviol</div>
-    		<div class="wireframe-1-child1">
+    		<div class="component-15">
+      			<div class="quem-somos1">QUEM SOMOS</div>
     		</div>
-    		<div class="maracuja">Maracuja</div>
-    		<div class="wireframe-1-child2">
+    		<div class="component-16">
+      			<div class="quem-somos1">Historia</div>
     		</div>
-    		<div class="beijinho">Beijinho</div>
-    		<div class="wireframe-1-child3">
+    		<div class="component-17">
+      			<div class="quem-somos1">Criador</div>
     		</div>
-    		<div class="leite-condensada">Leite condensada</div>
-    		<div class="wireframe-1-child4">
+    		<div class="component-18">
+      			<div class="quem-somos1">Visão</div>
     		</div>
-    		<div class="milho-verde">Milho verde</div>
-    		<div class="wireframe-1-child5">
+    		<div class="component-7">
+      			<div class="quem-somos1">PRODUTOS</div>
     		</div>
-    		<div class="coco-queimado">Coco queimado</div>
-    		<div class="wireframe-1-child6">
+    		<div class="component-19">
+      			<div class="quem-somos1">Suplementos</div>
     		</div>
-    		<div class="amendoim">Amendoim</div>
-    		<div class="wireframe-1-child7">
+    		<div class="component-20">
+      			<div class="quem-somos1">Vitaminas</div>
     		</div>
-    		<div class="abacate">Abacate</div>
-    		<div class="wireframe-1-child8">
+    		<div class="component-6">
+      			<div class="quem-somos1">Personalizado</div>
     		</div>
-    		<div class="goiaba">Goiaba</div>
-    		<div class="wireframe-1-child9">
-    		</div>
-    		<b class="comprar">COMPRAR</b>
-    		<div class="wireframe-1-child10">
-    		</div>
-    		<div class="contato">Contato</div>
-    		<div class="endereo">Endereço</div>
-    		<div class="parceiros">Parceiros</div>
-    		<div class="produtos">Produtos</div>
-    		<b class="formas-de-pagamento">Formas de pagamento</b>
-    		<img class="logo-pix-png-930x616-1-icon" alt="pix" src="https://github.com/Camilasimoes1/longipet/blob/main/5c4d4af587f110733ee06318df65c9560e0dfcda.png?raw=true">
-    		
-    		<b class="carto-de-crdito">Cartão de crédito</b>
-    		<img class="purepngcom-visa-logologobrand-icon" alt="visa" src="https://github.com/Camilasimoes1/longipet/blob/main/510b5aa3ea2127cdb6b4d6319caddab4e6c92980.png?raw=true">
-    		
-    		<img class="r-4-1" alt="master" src="https://github.com/Camilasimoes1/longipet/blob/main/2844f92f9c20d2b893b7c31549098659258638c4.png?raw=true">
-    		
-    		<b class="pix">PIX</b>
     		<div class="component-2">
-      			<div class="captura-de-tela-2024-07-31-161-parent">
-        				<img class="captura-de-tela-2024-07-31-161" alt="" src="https://github.com/Camilasimoes1/quero-final/blob/main/bff0eb9ac1c8b43397c9edd725c8e894b37bb452.png?raw=true">
-        				
-        		
+      			<div class="quem-somos1">EDUCAÇÃO</div>
+    		</div>
+    		<div class="component-8">
+      			<div class="quem-somos1">CONTATO</div>
+    		</div>
+    		<div class="component-21">
+      			<div class="quem-somos1">EBooks</div>
+    		</div>
+    		<div class="component-9">
+      			<div class="quem-somos1">Seminarios</div>
+    		</div>
+    		<img class="captura-de-tela-2024-07-09-112" alt="bannerfinal" src="https://github.com/Camilasimoes1/longivicel/blob/main/c6bdeb9480596af4e1bb4514f0929690bfac5907.png?raw=true">
+    		
+    		<div class="component-151">
+      			<div class="component-15-child">
+      			</div>
+      			<div class="saiba-mais">Saiba mais</div>
+    		</div>
+    		<div class="guia-de-usuario">guia de usuario</div>
+    		<div class="desde-quando-nasci-container">
+      			<p class="desde-quando-nasci">Desde quando nasci, que eu me lembre, minha família sempre estava doente, e assim foi passando anos após, até que meu pai morreu com problema de saúde. E logo após 2 anos morreu meu irmão, novo com muito tempo para viver, mas o câncer levou ele, hoje tenho 55 anos. </p>
+      			<p class="desde-quando-nasci">A partir desce dia me preguntei, quanto tempo eu tinha mais de vida?. </p>
+      			<p class="desde-quando-nasci">Fui pesquisar, em todos os recursos possíveis; atrás da verdade.</p>
+      			<p class="desde-quando-nasci">Peguei fração de cura de todos os lugares, e descobri que era falta de nutrição para as células micro até o macro, foi assim a minha busca. E quero deixar um legado, antes de partir desse mundo. </p>
+    		</div>
+    		<div class="homepage-child1">
+    		</div>
+    		<div class="homepage-child2">
+    		</div>
+    		<div class="nome">Nome</div>
+    		<div class="homepage-child3">
+    		</div>
+    		<div class="email">Email</div>
+    		<div class="homepage-child4">
+    		</div>
+    		<div class="sexo">Sexo</div>
+    		<div class="homepage-child5">
+    		</div>
+    		<div class="idade">Idade</div>
+    		<div class="homepage-child6">
+    		</div>
+    		<div class="peso">Peso</div>
+    		<div class="homepage-child7">
+    		</div>
+    		<div class="altura">Altura</div>
+    		<div class="homepage-child8">
+    		</div>
+    		<div class="voc-tem-alguma">Você tem alguma alergia?</div>
+    		<div class="receita-personalizada">Receita personalizada</div>
+    		<div class="homepage-child9">
+    		</div>
+    		<div class="cpf">CPF</div>
+    		<div class="homepage-child10">
+    		</div>
+    		<b class="enviar-por-email">Enviar por email</b>
+    		<img class="rectangle-icon" alt="" src="https://github.com/Camilasimoes1/longivicel/blob/main/e7d6562039d2e698df8216c8b12b31c68eb41532.png?raw=true">
+    		
+    		
+    		
+    		
+    		
+            <img class="homepage-child12" alt="master" src="https://github.com/Camilasimoes1/longipet/blob/main/2844f92f9c20d2b893b7c31549098659258638c4.png?raw=true">
+    		
+    		<div class="homepage-child13">
+    		</div>
+    		<div class="nome1">Nome</div>
+    		<div class="homepage-child14">
+    		</div>
+    		<div class="cpf1">CPF</div>
+    		<div class="homepage-child15">
+    		</div>
+    		<div class="endereo">Endereço</div>
+    		<div class="homepage-child16">
+    		</div>
+    		<div class="email1">Email</div>
+    		<div class="homepage-child17">
+    		</div>
+    		<div class="telefone">Telefone</div>
+    		<div class="homepage-child18">
+    		</div>
+    		<div class="quantidade">Quantidade</div>
+    		<div class="homepage-child19">
+    		</div>
+    		<b class="finalizar">Finalizar</b>
+    		<div class="ellipse-div">
+    		</div>
+    		<div class="homepage-child20">
+    		</div>
+    		<div class="pix">PIX</div>
+    		<div class="carto">Cartão</div>
+    		<img class="logo-pix-png-930x616-1-icon" alt="" src="https://github.com/Camilasimoes1/longipet/blob/main/5c4d4af587f110733ee06318df65c9560e0dfcda.png?raw=true">
+    		
+    		<img class="purepngcom-visa-logologobrand-icon" alt="" src="https://github.com/Camilasimoes1/longipet/blob/main/510b5aa3ea2127cdb6b4d6319caddab4e6c92980.png?raw=true">
+    		
+    		<div class="homepage-child21">
+    		</div>
+    		<div class="paypal">Paypal</div>
+    		<img class="paypal-logo-transparent-free-p-icon" alt="" src="https://github.com/Camilasimoes1/longipet/blob/main/ae78773753301b1822b5b65ac2b8714b66be0f4e.png?raw=true">
+    		
+    		<div class="homepage-child22">
+    		</div>
+    		<div class="rede-de-afiliados">Rede de afiliados credenciada</div>
+    		<img class="connection2-512-1-icon" alt="" src="https://github.com/Camilasimoes1/longipet/blob/main/2d7c4d68cb239324f7a3c537832715b2ab10ffd3.png?raw=true">
+    		
+    		<div class="homepage-child23">
+    		</div>
+    		<div class="forma-de-pagamento">Forma de pagamento</div>
+    		<div class="homepage-child24">
+    		</div>
+    		<div class="component-5">
+      			<div class="component-5-child">
+      			</div>
+      			<div class="login">Login</div>
+    		</div>
+    		<div class="component-22">
+      			<div class="quem-somos1">CONTATO</div>
+    		</div>
+    		<div class="frame-parent">
+      			<div class="component-2-wrapper">
+        				<div class="component-23">
+          					<div class="quem-somos1">EDUCAÇÃO</div>
+        				</div>
+      			</div>
+      			<div class="instance-parent">
+        				<div class="component-24-wrapper">
+          					<div class="component-24">
+            						<div class="quem-somos15">  Ambiente EAD</div>
+          					</div>
+        				</div>
+        				<div class="component-24-container">
+          					<div class="component-24">
+            						<div class="quem-somos15">  EBooks</div>
+          					</div>
+        				</div>
+        				<div class="component-24-frame">
+          					<div class="component-24">
+            						<div class="quem-somos15">  Seminarios</div>
+          					</div>
+        				</div>
       			</div>
     		</div>
-    		<div class="cocadas">Cocadas</div>
-    		<div class="wireframe-1-child11">
+    		<div class="component-25">
+      			<div class="quem-somos1">PRODUTOS</div>
     		</div>
-    		<div class="comprar1">COMPRAR</div>
-    		<div class="wireframe-1-child12">
+    		<div class="component-26">
+      			<div class="quem-somos1">QUEM SOMOS</div>
     		</div>
-    		<div class="maracuj">Maracujá</div>
-    		<div class="wireframe-1-child13">
+    		<div class="component-243">
+      			<div class="quem-somos1">PROGRAMA DE AFILIADOS</div>
     		</div>
-    		<div class="coco-queimado1">coco queimado</div>
-    		<div class="wireframe-1-child14">
+    		<div class="component-251">
+      			<div class="quem-somos1">VAGAS</div>
     		</div>
-    		<div class="coco-branco">Coco branco</div>
-    		<img class="information-1-1-icon" alt="pessoas" src="https://github.com/Camilasimoes1/quero-final/blob/main/64e3583a892a85c08752a8b22bdcb1680b769668.jpg?raw=true">
+    		<div class="component-261">
+      			<div class="quem-somos1">REDE AUTORIZADA</div>
+    		</div>
+    		<img class="captura-de-tela-2024-08-12-164" alt="logo" src="https://github.com/Camilasimoes1/longivicel/blob/main/87bb6f3732eadf3ef7881914f4ab331a5cdd888c.png?raw=true">
     		
-    		<img class="whatsapp-image-2024-08-09-at-1-icon" alt="1" src="https://github.com/Camilasimoes1/quero-final/blob/main/820f6566e3b61e60ab2595680425000af14d94d9.png?raw=true">
+    		<img class="captura-de-tela-2024-09-09-172" alt="whatsapp" src="https://github.com/Camilasimoes1/longipet/blob/main/8d80e1234110991b06300328601b25f17446fb77.png?raw=true">
     		
-    		<img class="whatsapp-image-2024-08-09-at-1-icon1" alt="2" src="https://github.com/Camilasimoes1/quero-final/blob/main/751bc3bda254d316bd13a5f34b6a4f1ab07a1656.png?raw=true">
-    		
-    		<img class="whatsapp-image-2024-08-09-at-1-icon2" alt="3" src="https://github.com/Camilasimoes1/quero-final/blob/main/beef1d78f55ac8a3af04542e31335b32c9997f46.png?raw=true">
-    		
-    		<div class="wireframe-1-child15">
+    		<b class="tem-dvidas-fale-container">
+      			<p class="tem-dvidas">Tem dúvidas?</p>
+      			<p class="desde-quando-nasci">&nbsp;</p>
+      			<p class="desde-quando-nasci">Fale conosco pelo nosso
+chat ou whatsapp</p>
+    		</b>
+    		<div class="component-63">
+      			<div class="captura-de-tela-2024-07-28-195-parent">
+        				<img class="captura-de-tela-2024-07-28-195" alt="" src="https://github.com/Camilasimoes1/longivicel/blob/main/54120db3addfd51f38f29b62273e6db7b5863306.png?raw=true">
+        				
+        				
+      			</div>
     		</div>
-    		<div class="coco">Coco</div>
-    		<div class="wireframe-1-child16">
+    		<div class="component-67">
+      			<div class="frame-group">
+        				<div class="vitamina-c-parent">
+          					<div class="vitamina-c">Vitamina C</div>
+          					<div class="frutas-ctricas-laranjas-container">
+            						<p class="desde-quando-nasci">Frutas Cítricas: Laranjas, limões, limas, toranjas. </p>
+            						<p class="desde-quando-nasci">&nbsp;</p>
+            						<p class="desde-quando-nasci">Outras Frutas: Morangos, kiwis, mangas, abacaxis, melões, acerolas, goiabas, papaias. </p>
+            						<p class="desde-quando-nasci">&nbsp;</p>
+            						<p class="desde-quando-nasci">Vegetais: Pimentões (vermelhos, amarelos e verdes), brócolis, couves (couve-de-bruxelas, couve-flor), espinafre, couve, batatas, tomates. </p>
+            						<p class="desde-quando-nasci">&nbsp;</p>
+            						<p class="desde-quando-nasci">Ervas Frescas: Salsa, tomilho.</p>
+          					</div>
+          					<img class="lasfrutasmassanas660x495-1200x-icon" alt="" src="https://github.com/Camilasimoes1/longipet/blob/main/244ddb87026d655e65cd82ab0dd6fb16d636914b.jpg?raw=true">
+          					
+          					<div class="cido-ascrbico-o">*:Ácido Ascórbico, o Antioxidante Vital</div>
+          					<img class="isolated-white-mug-free-png-1-icon" alt="copo" src="https://github.com/Camilasimoes1/longipet/blob/main/3aad6dde6907c7952fc2aaf9a826ae09c18241a5.png?raw=true">
+          					
+          					<div class="mask-group">
+            						<div class="shake-longiviicel">
+              							<p class="desde-quando-nasci">Shake </p>
+              							<p class="desde-quando-nasci">longiviiCEL</p>
+            						</div>
+          					</div>
+        				</div>
+        				
+
+          					
+          				
+          					</div>
+          				
+        				</div>
+      			</div>
     		</div>
-    		<div class="jaca">Jaca</div>
-    		<img class="captura-de-tela-2024-08-02-173" alt="logo" src="https://github.com/Camilasimoes1/quero-final/blob/main/54a5b6e13399e30c8d254e6e385e5af619d2d583.png?raw=true">
-    		
   	</div>
   	
   	
   	<style>
-		.wireframe-1-child {
+        .homepage-child {
   	position: absolute;
-  	top: 4085px;
+  	top: 13px;
   	left: 0px;
-  	background-color: #9b6050;
-  	width: 1524px;
-  	height: 460px;
+  	background-color: #f5f6f6;
+  	width: 1440px;
+  	height: 104px;
 }
-.m-removebg-preview-2-icon {
+.homepage-item {
   	position: absolute;
-  	top: 1735px;
-  	left: 646px;
-  	width: 878px;
-  	height: 606px;
-  	object-fit: cover;
-}
-.sorvetes {
-  	position: absolute;
-  	top: 486px;
-  	left: 798px;
-  	font-size: 96px;
-  	text-decoration: underline;
-  	font-family: 'Inknut Antiqua';
-}
-.wireframe-1-item {
-  	position: absolute;
-  	top: 734px;
-  	left: 662px;
-  	box-shadow: 0px 4px 14.3px rgba(0, 0, 0, 0.25);
-  	border-radius: 25px;
-  	background-color: #f5f5f5;
-  	width: 328px;
-  	height: 84px;
-}
-.chocolate {
-  	position: absolute;
-  	top: 753px;
-  	left: 741px;
-}
-.wireframe-1-inner {
-  	position: absolute;
-  	top: 856px;
-  	left: 662px;
-  	box-shadow: 0px 4px 14.3px rgba(0, 0, 0, 0.25);
-  	border-radius: 25px;
-  	background-color: #f5f5f5;
-  	width: 328px;
-  	height: 84px;
-}
-.morango {
-  	position: absolute;
-  	top: 875px;
-  	left: 741px;
-}
-.rectangle-div {
-  	position: absolute;
-  	top: 856px;
-  	left: 1052px;
-  	box-shadow: 0px 4px 14.3px rgba(0, 0, 0, 0.25);
-  	border-radius: 25px;
-  	background-color: #f5f5f5;
-  	width: 328px;
-  	height: 84px;
-}
-.graviol {
-  	position: absolute;
-  	top: 875px;
-  	left: 1155px;
-}
-.wireframe-1-child1 {
-  	position: absolute;
-  	top: 978px;
-  	left: 662px;
-  	box-shadow: 0px 4px 14.3px rgba(0, 0, 0, 0.25);
-  	border-radius: 25px;
-  	background-color: #f5f5f5;
-  	width: 328px;
-  	height: 84px;
-}
-.maracuja {
-  	position: absolute;
-  	top: 997px;
-  	left: 738px;
-}
-.wireframe-1-child2 {
-  	position: absolute;
-  	top: 978px;
-  	left: 1052px;
-  	box-shadow: 0px 4px 14.3px rgba(0, 0, 0, 0.25);
-  	border-radius: 25px;
-  	background-color: #f5f5f5;
-  	width: 328px;
-  	height: 84px;
-}
-.beijinho {
-  	position: absolute;
-  	top: 997px;
-  	left: 1151px;
-}
-.wireframe-1-child3 {
-  	position: absolute;
-  	top: 1100px;
-  	left: 662px;
-  	box-shadow: 0px 4px 14.3px rgba(0, 0, 0, 0.25);
-  	border-radius: 25px;
-  	background-color: #f5f5f5;
-  	width: 328px;
-  	height: 84px;
-}
-.leite-condensada {
-  	position: absolute;
-  	top: 1119px;
-  	left: 679px;
-}
-.wireframe-1-child4 {
-  	position: absolute;
-  	top: 1100px;
-  	left: 1052px;
-  	box-shadow: 0px 4px 14.3px rgba(0, 0, 0, 0.25);
-  	border-radius: 25px;
-  	background-color: #f5f5f5;
-  	width: 328px;
-  	height: 84px;
-}
-.milho-verde {
-  	position: absolute;
-  	top: 1119px;
-  	left: 1119px;
-}
-.wireframe-1-child5 {
-  	position: absolute;
-  	top: 1222px;
-  	left: 662px;
-  	box-shadow: 0px 4px 14.3px rgba(0, 0, 0, 0.25);
-  	border-radius: 25px;
-  	background-color: #f5f5f5;
-  	width: 328px;
-  	height: 84px;
-}
-.coco-queimado {
-  	position: absolute;
-  	top: 1241px;
-  	left: 695px;
-}
-.wireframe-1-child6 {
-  	position: absolute;
-  	top: 1222px;
-  	left: 1052px;
-  	box-shadow: 0px 4px 14.3px rgba(0, 0, 0, 0.25);
-  	border-radius: 25px;
-  	background-color: #f5f5f5;
-  	width: 328px;
-  	height: 84px;
-}
-.amendoim {
-  	position: absolute;
-  	top: 1241px;
-  	left: 1125px;
-}
-.wireframe-1-child7 {
-  	position: absolute;
-  	top: 1344px;
-  	left: 662px;
-  	box-shadow: 0px 4px 14.3px rgba(0, 0, 0, 0.25);
-  	border-radius: 25px;
-  	background-color: #f5f5f5;
-  	width: 328px;
-  	height: 84px;
-}
-.abacate {
-  	position: absolute;
-  	top: 1363px;
-  	left: 757px;
-}
-.wireframe-1-child8 {
-  	position: absolute;
-  	top: 1466px;
-  	left: 661px;
-  	box-shadow: 0px 4px 14.3px rgba(0, 0, 0, 0.25);
-  	border-radius: 25px;
-  	background-color: #f5f5f5;
-  	width: 328px;
-  	height: 84px;
-}
-.goiaba {
-  	position: absolute;
-  	top: 1485px;
-  	left: 766px;
-}
-.wireframe-1-child9 {
-  	position: absolute;
-  	top: 1470px;
-  	left: 1052px;
-  	box-shadow: 0px 4px 14.3px rgba(0, 0, 0, 0.25);
-  	border-radius: 25px;
-  	background-color: #00034c;
-  	width: 328px;
-  	height: 84px;
-}
-.comprar {
-  	position: absolute;
-  	top: 1485px;
-  	left: 1114px;
-  	font-size: 40px;
-  	display: inline-block;
-  	font-family: 'Istok Web';
-  	color: #f5f5f5;
-  	width: 203px;
-  	height: 45px;
-}
-.wireframe-1-child10 {
-  	position: absolute;
-  	top: 0px;
-  	left: 0px;
-  	background-color: #9b6050;
-  	width: 1524px;
-  	height: 200px;
-}
-.contato {
-  	position: absolute;
-  	top: 140px;
-  	left: 1290px;
-  	font-size: 32px;
-  	font-family: 'Holtwood One SC';
-  	color: #f5f5f5;
-}
-.endereo {
-  	position: absolute;
-  	top: 140px;
-  	left: 1038px;
-  	font-size: 32px;
-  	font-family: 'Holtwood One SC';
-  	color: #f5f5f5;
-}
-.parceiros {
-  	position: absolute;
-  	top: 140px;
-  	left: 43px;
-  	font-size: 32px;
-  	font-family: 'Holtwood One SC';
-  	color: #f5f5f5;
-}
-.produtos {
-  	position: absolute;
-  	top: 140px;
-  	left: 307px;
-  	font-size: 32px;
-  	font-family: 'Holtwood One SC';
-  	color: #f5f5f5;
-}
-.formas-de-pagamento {
-  	position: absolute;
-  	top: 4124px;
-  	left: 102px;
-  	font-size: 48px;
-  	font-family: 'Istok Web';
-  	color: #f5f5f5;
-}
-.logo-pix-png-930x616-1-icon {
-  	position: absolute;
-  	top: 4227px;
-  	left: 225px;
-  	width: 110px;
-  	height: 75px;
-  	object-fit: cover;
-}
-.carto-de-crdito {
-  	position: absolute;
-  	top: 4336px;
-  	left: 120px;
-  	font-size: 40px;
-  	font-family: 'Inria Serif';
-  	color: #f5f5f5;
-}
-.purepngcom-visa-logologobrand-icon {
-  	position: absolute;
-  	top: 4393px;
-  	left: 235px;
-  	width: 170px;
-  	height: 85px;
-  	object-fit: cover;
-}
-.r-4-1 {
-  	position: absolute;
-  	top: 4393px;
-  	left: 120px;
-  	width: 96px;
-  	height: 82px;
-  	object-fit: cover;
-}
-.pix {
-  	position: absolute;
-  	top: 4235px;
-  	left: 130px;
-  	font-size: 40px;
-  	font-family: 'Inria Serif';
-  	color: #f5f5f5;
-}
-.captura-de-tela-2024-07-31-161 {
-  	position: absolute;
-  	top: 0px;
-  	left: 0px;
-  	width: 1109px;
-  	height: 557px;
-  	object-fit: cover;
-}
-.captura-de-tela-2024-07-31-1611 {
-  	position: absolute;
-  	top: 0px;
-  	left: 1228px;
-  	width: 1110px;
-  	height: 557px;
-  	object-fit: cover;
-}
-.captura-de-tela-2024-07-31-1612 {
-  	position: absolute;
-  	top: 0px;
-  	left: 2457px;
-  	width: 1109px;
-  	height: 557px;
-  	object-fit: cover;
-}
-.captura-de-tela-2024-07-31-161-parent {
-  	position: absolute;
-  	top: 0px;
-  	left: 0px;
-  	width: 3566px;
-  	height: 557px;
-}
-.component-2 {
-  	position: absolute;
-  	top: 3439px;
-  	left: 208px;
-  	box-shadow: 0px 4px 14.2px rgba(0, 0, 0, 0.25);
+  	top: 2941px;
+  	left: 160px;
+  	box-shadow: 0px 4px 13.5px rgba(0, 0, 0, 0.25);
+  	border-radius: 23px;
   	background-color: #fff;
-  	width: 1109px;
-  	height: 557px;
-  	overflow: hidden;
+  	width: 1120px;
+  	height: 612px;
 }
-.cocadas {
+.cumlaude-lab-ginenatal-forte-3-icon {
   	position: absolute;
-  	top: 1617px;
-  	left: 126px;
-  	font-size: 96px;
-  	text-decoration: underline;
-  	font-family: 'Inknut Antiqua';
-}
-.wireframe-1-child11 {
-  	position: absolute;
-  	top: 2257px;
-  	left: 183px;
-  	box-shadow: 0px 4px 14.3px rgba(0, 0, 0, 0.25);
-  	border-radius: 25px;
-  	background-color: #00034c;
-  	width: 328px;
-  	height: 84px;
-}
-.comprar1 {
-  	position: absolute;
-  	top: 2276px;
-  	left: 262px;
-  	color: #f5f5f5;
-}
-.wireframe-1-child12 {
-  	position: absolute;
-  	top: 1982px;
-  	left: 187px;
-  	box-shadow: 0px 4px 14.3px rgba(0, 0, 0, 0.25);
-  	border-radius: 25px;
-  	background-color: #f5f5f5;
-  	width: 328px;
-  	height: 84px;
-}
-.maracuj {
-  	position: absolute;
-  	top: 2001px;
-  	left: 271px;
-}
-.wireframe-1-child13 {
-  	position: absolute;
-  	top: 2099px;
-  	left: 187px;
-  	box-shadow: 0px 4px 14.3px rgba(0, 0, 0, 0.25);
-  	border-radius: 25px;
-  	background-color: #f5f5f5;
-  	width: 328px;
-  	height: 84px;
-}
-.coco-queimado1 {
-  	position: absolute;
-  	top: 2119px;
-  	left: 224px;
-}
-.wireframe-1-child14 {
-  	position: absolute;
-  	top: 1865px;
-  	left: 187px;
-  	box-shadow: 0px 4px 14.3px rgba(0, 0, 0, 0.25);
-  	border-radius: 25px;
-  	background-color: #f5f5f5;
-  	width: 328px;
-  	height: 84px;
-}
-.coco-branco {
-  	position: absolute;
-  	top: 1884px;
-  	left: 246px;
-}
-.information-1-1-icon {
-  	position: absolute;
-  	top: 2555px;
-  	left: 195px;
-  	width: 1142px;
-  	height: 757px;
+  	top: 115px;
+  	left: 692px;
+  	width: 748px;
+  	height: 636px;
   	object-fit: cover;
 }
-.whatsapp-image-2024-08-09-at-1-icon {
+.elementos-essenciais-para {
   	position: absolute;
-  	top: 604px;
-  	left: -4px;
-  	width: 573px;
+  	top: 210px;
+  	left: 34px;
+  	font-size: 80px;
+  	font-family: Inika;
+  	display: inline-block;
+  	width: 811px;
+  	height: 298px;
+}
+.um-caminho-para {
+  	position: absolute;
+  	top: 544px;
+  	left: 34px;
+  	font-size: 24px;
+  	font-family: 'IM FELL Great Primer';
+  	color: #156b00;
+}
+.combo-da-sade {
+  	position: absolute;
+  	top: 780px;
+  	left: 535px;
+  	font-size: 48px;
+  	font-family: 'Inria Sans';
+}
+.homepage-inner {
+  	position: absolute;
+  	top: 4611px;
+  	left: 267px;
+  	border-radius: 20px;
+  	width: 396px;
   	height: 475px;
   	object-fit: cover;
 }
-.whatsapp-image-2024-08-09-at-1-icon1 {
+.quem-somos {
   	position: absolute;
-  	top: 943px;
-  	left: -4px;
-  	width: 582px;
-  	height: 414px;
+  	top: 4632px;
+  	left: 698px;
+  	font-size: 24px;
+  	font-family: JejuGothic;
+}
+.group-of-young-happy-fit-peopl-icon {
+  	position: absolute;
+  	top: 4121px;
+  	left: 83px;
+  	width: 660px;
+  	height: 385px;
   	object-fit: cover;
 }
-.whatsapp-image-2024-08-09-at-1-icon2 {
+.senior-couple-running-park-smi-icon {
   	position: absolute;
-  	top: 1200px;
-  	left: -4px;
-  	width: 512px;
-  	height: 452px;
+  	top: 4123px;
+  	left: 781px;
+  	width: 598px;
+  	height: 383px;
   	object-fit: cover;
 }
-.wireframe-1-child15 {
+.rectangle-div {
   	position: absolute;
-  	top: 730px;
-  	left: 1052px;
-  	box-shadow: 0px 4px 14.3px rgba(0, 0, 0, 0.25);
-  	border-radius: 25px;
-  	background-color: #f5f5f5;
-  	width: 328px;
-  	height: 84px;
+  	top: 5997px;
+  	left: 0px;
+  	background-color: #8a9283;
+  	width: 1440px;
+  	height: 400px;
 }
-.coco {
+.quem-somos1 {
   	position: absolute;
-  	top: 749px;
-  	left: 1176px;
+  	top: 0%;
+  	left: 0%;
+  	font-weight: 500;
 }
-.wireframe-1-child16 {
+.component-15 {
   	position: absolute;
-  	top: 1344px;
-  	left: 1052px;
-  	box-shadow: 0px 4px 14.3px rgba(0, 0, 0, 0.25);
-  	border-radius: 25px;
-  	background-color: #f5f5f5;
-  	width: 328px;
-  	height: 84px;
+  	top: 6110px;
+  	left: 64px;
+  	width: 152px;
+  	height: 19px;
+  	font-size: 20px;
 }
-.jaca {
+.component-16 {
   	position: absolute;
-  	top: 1363px;
-  	left: 1177px;
+  	top: 6154px;
+  	left: 106px;
+  	width: 69px;
+  	height: 21px;
 }
-.captura-de-tela-2024-08-02-173 {
+.component-17 {
   	position: absolute;
-  	top: 19px;
-  	left: 565px;
-  	width: 413px;
-  	height: 411px;
+  	top: 6185px;
+  	left: 106px;
+  	width: 59px;
+  	height: 16px;
+}
+.component-18 {
+  	position: absolute;
+  	top: 6217px;
+  	left: 106px;
+  	width: 49px;
+  	height: 19px;
+}
+.component-7 {
+  	position: absolute;
+  	top: 6110px;
+  	left: 278px;
+  	width: 124px;
+  	height: 19px;
+  	font-size: 20px;
+}
+.component-19 {
+  	position: absolute;
+  	top: 6156px;
+  	left: 292px;
+  	width: 109px;
+  	height: 17px;
+}
+.component-20 {
+  	position: absolute;
+  	top: 6185px;
+  	left: 293px;
+  	width: 85px;
+  	height: 19px;
+}
+.component-6 {
+  	position: absolute;
+  	top: 6217px;
+  	left: 293px;
+  	width: 109px;
+  	height: 19px;
+}
+.component-2 {
+  	position: absolute;
+  	top: 6110px;
+  	left: 452px;
+  	width: 119px;
+  	height: 24px;
+  	font-size: 20px;
+}
+.component-8 {
+  	position: absolute;
+  	top: 6110px;
+  	left: 603px;
+  	width: 101px;
+  	height: 24px;
+  	font-size: 20px;
+}
+.component-21 {
+  	position: absolute;
+  	top: 6156px;
+  	left: 452px;
+  	width: 65px;
+  	height: 19px;
+}
+.component-9 {
+  	position: absolute;
+  	top: 6186px;
+  	left: 452px;
+  	width: 88px;
+  	height: 18px;
+}
+.captura-de-tela-2024-07-09-112 {
+  	position: absolute;
+  	top: 5268px;
+  	left: 142px;
+  	width: 1126px;
+  	height: 533px;
   	object-fit: cover;
 }
-.wireframe-1 {
+.component-15-child {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	background-color: #5278ff;
+}
+.saiba-mais {
+  	position: absolute;
+  	top: 27.27%;
+  	left: 21.23%;
+}
+.component-151 {
+  	position: absolute;
+  	top: 5602px;
+  	left: 182px;
+  	width: 212px;
+  	height: 66px;
+  	font-size: 24px;
+  	color: #fff;
+}
+.guia-de-usuario {
+  	position: absolute;
+  	top: 1449px;
+  	left: 594px;
+  	font-size: 32px;
+  	font-family: 'Inknut Antiqua';
+}
+.desde-quando-nasci {
+  	margin: 0;
+}
+.desde-quando-nasci-container {
+  	position: absolute;
+  	top: 4680px;
+  	left: 698px;
+  	font-size: 24px;
+  	font-family: Georama;
+  	display: inline-block;
+  	width: 603px;
+  	height: 377px;
+}
+.homepage-child1 {
+  	position: absolute;
+  	top: 2129px;
+  	left: 171px;
+  	box-shadow: 0px 4px 13.5px rgba(0, 0, 0, 0.25);
+  	border-radius: 23px;
+  	background-color: #fff;
+  	width: 1120px;
+  	height: 765px;
+}
+.homepage-child2 {
+  	position: absolute;
+  	top: 2274px;
+  	left: 251px;
+  	border-radius: 21px;
+  	background-color: #d8d8d8;
+  	width: 426px;
+  	height: 68px;
+}
+.nome {
+  	position: absolute;
+  	top: 2300px;
+  	left: 274px;
+  	font-family: JejuGothic;
+}
+.homepage-child3 {
+  	position: absolute;
+  	top: 2274px;
+  	left: 783px;
+  	border-radius: 21px;
+  	background-color: #d8d8d8;
+  	width: 426px;
+  	height: 68px;
+}
+.email {
+  	position: absolute;
+  	top: 2300px;
+  	left: 811px;
+  	font-family: JejuGothic;
+}
+.homepage-child4 {
+  	position: absolute;
+  	top: 2370px;
+  	left: 251px;
+  	border-radius: 21px;
+  	background-color: #d8d8d8;
+  	width: 426px;
+  	height: 68px;
+}
+.sexo {
+  	position: absolute;
+  	top: 2396px;
+  	left: 280px;
+  	font-family: JejuGothic;
+}
+.homepage-child5 {
+  	position: absolute;
+  	top: 2379px;
+  	left: 783px;
+  	border-radius: 21px;
+  	background-color: #d8d8d8;
+  	width: 426px;
+  	height: 68px;
+}
+.idade {
+  	position: absolute;
+  	top: 2405px;
+  	left: 812px;
+  	font-family: JejuGothic;
+}
+.homepage-child6 {
+  	position: absolute;
+  	top: 2466px;
+  	left: 251px;
+  	border-radius: 21px;
+  	background-color: #d8d8d8;
+  	width: 426px;
+  	height: 68px;
+}
+.peso {
+  	position: absolute;
+  	top: 2492px;
+  	left: 280px;
+  	font-family: JejuGothic;
+}
+.homepage-child7 {
+  	position: absolute;
+  	top: 2475px;
+  	left: 783px;
+  	border-radius: 21px;
+  	background-color: #d8d8d8;
+  	width: 426px;
+  	height: 68px;
+}
+.altura {
+  	position: absolute;
+  	top: 2501px;
+  	left: 812px;
+  	font-family: JejuGothic;
+}
+.homepage-child8 {
+  	position: absolute;
+  	top: 2565px;
+  	left: 251px;
+  	border-radius: 21px;
+  	background-color: #d8d8d8;
+  	width: 426px;
+  	height: 68px;
+}
+.voc-tem-alguma {
+  	position: absolute;
+  	top: 2591px;
+  	left: 280px;
+  	font-family: JejuGothic;
+}
+.receita-personalizada {
+  	position: absolute;
+  	top: 2169px;
+  	left: 567px;
+  	font-size: 32px;
+  	font-family: 'IM FELL Great Primer';
+  	display: inline-block;
+  	width: 285px;
+  	height: 48px;
+}
+.homepage-child9 {
+  	position: absolute;
+  	top: 2569px;
+  	left: 783px;
+  	border-radius: 21px;
+  	background-color: #d8d8d8;
+  	width: 426px;
+  	height: 68px;
+}
+.cpf {
+  	position: absolute;
+  	top: 2600px;
+  	left: 814px;
+  	font-family: JejuGothic;
+}
+.homepage-child10 {
+  	position: absolute;
+  	top: 2716px;
+  	left: 589px;
+  	border-radius: 13px;
+  	background-color: #4a6085;
+  	width: 284px;
+  	height: 80px;
+}
+.enviar-por-email {
+  	position: absolute;
+  	top: 2742px;
+  	left: 637px;
+  	font-size: 24px;
+  	color: #fff;
+}
+.rectangle-icon {
+  	position: absolute;
+  	top: 3664px;
+  	left: 747px;
+  	border-radius: 14px;
+  	width: 625px;
+  	height: 336px;
+  	object-fit: cover;
+}
+.homepage-child11 {
+  	position: absolute;
+  	top: 3699px;
+  	left: 747px;
+  	width: 318px;
+  	height: 280px;
+}
+.inscreva-se-a {
+  	position: absolute;
+  	top: 3767px;
+  	left: 774px;
+  	font-size: 32px;
+  	font-weight: 800;
+  	color: #fff;
+  	display: inline-block;
+  	width: 285px;
+  	height: 131px;
+}
+.homepage-child12 {
+  	position: absolute;
+  	top: 3306px;
+  	left: 1003px;
+  
+  	width: 39px;
+  	height: 40px;
+  	object-fit: cover;
+}
+.homepage-child13 {
+  	position: absolute;
+  	top: 2984px;
+  	left: 200px;
+  	border-radius: 21px;
+  	background-color: #d8d8d8;
+  	width: 426px;
+  	height: 68px;
+}
+.nome1 {
+  	position: absolute;
+  	top: 3010px;
+  	left: 226px;
+  	font-family: JejuGothic;
+}
+.homepage-child14 {
+  	position: absolute;
+  	top: 3074px;
+  	left: 200px;
+  	border-radius: 21px;
+  	background-color: #d8d8d8;
+  	width: 426px;
+  	height: 68px;
+}
+.cpf1 {
+  	position: absolute;
+  	top: 3100px;
+  	left: 226px;
+  	font-family: JejuGothic;
+}
+.homepage-child15 {
+  	position: absolute;
+  	top: 3164px;
+  	left: 200px;
+  	border-radius: 21px;
+  	background-color: #d8d8d8;
+  	width: 426px;
+  	height: 68px;
+}
+.endereo {
+  	position: absolute;
+  	top: 3190px;
+  	left: 226px;
+  	font-family: JejuGothic;
+}
+.homepage-child16 {
+  	position: absolute;
+  	top: 2984px;
+  	left: 800px;
+  	border-radius: 21px;
+  	background-color: #d8d8d8;
+  	width: 426px;
+  	height: 68px;
+}
+.email1 {
+  	position: absolute;
+  	top: 3010px;
+  	left: 826px;
+  	font-family: JejuGothic;
+}
+.homepage-child17 {
+  	position: absolute;
+  	top: 3070px;
+  	left: 800px;
+  	border-radius: 21px;
+  	background-color: #d8d8d8;
+  	width: 426px;
+  	height: 68px;
+}
+.telefone {
+  	position: absolute;
+  	top: 3096px;
+  	left: 826px;
+  	font-family: JejuGothic;
+}
+.homepage-child18 {
+  	position: absolute;
+  	top: 3254px;
+  	left: 200px;
+  	border-radius: 21px;
+  	background-color: #d8d8d8;
+  	width: 426px;
+  	height: 68px;
+}
+.quantidade {
+  	position: absolute;
+  	top: 3280px;
+  	left: 225px;
+  	font-family: JejuGothic;
+}
+.homepage-child19 {
+  	position: absolute;
+  	top: 3407px;
+  	left: 866px;
+  	border-radius: 13px;
+  	background-color: #4a6085;
+  	width: 284px;
+  	height: 80px;
+}
+.finalizar {
+  	position: absolute;
+  	top: 3428px;
+  	left: 941px;
+  	font-size: 32px;
+  	color: #fff;
+}
+.ellipse-div {
+  	position: absolute;
+  	top: 3259px;
+  	left: 884px;
+  	border-radius: 50%;
+  	background-color: #d9d9d9;
+  	width: 22px;
+  	height: 24px;
+}
+.homepage-child20 {
+  	position: absolute;
+  	top: 3306px;
+  	left: 884px;
+  	border-radius: 50%;
+  	background-color: #d9d9d9;
+  	width: 22px;
+  	height: 24px;
+}
+.pix {
+  	position: absolute;
+  	top: 3266px;
+  	left: 929px;
+  	font-family: JejuGothic;
+}
+.carto {
+  	position: absolute;
+  	top: 3310px;
+  	left: 929px;
+  	font-family: JejuGothic;
+}
+.logo-pix-png-930x616-1-icon {
+  	position: absolute;
+  	top: 3251px;
+  	left: 968px;
+  	width: 80px;
+  	height: 45.1px;
+  	object-fit: cover;
+}
+.purepngcom-visa-logologobrand-icon {
+  	position: absolute;
+  	top: 3304px;
+  	left: 1057px;
+  	width: 51px;
+  	height: 28px;
+  	object-fit: cover;
+}
+.homepage-child21 {
+  	position: absolute;
+  	top: 3357px;
+  	left: 884px;
+  	border-radius: 50%;
+  	background-color: #d9d9d9;
+  	width: 22px;
+  	height: 24px;
+}
+.paypal {
+  	position: absolute;
+  	top: 3361px;
+  	left: 929px;
+  	font-family: JejuGothic;
+}
+.paypal-logo-transparent-free-p-icon {
+  	position: absolute;
+  	top: 3335px;
+  	left: 984px;
+  	width: 81px;
+  	height: 68px;
+  	object-fit: cover;
+}
+.homepage-child22 {
+  	position: absolute;
+  	top: 3357px;
+  	left: 200.23px;
+  	box-shadow: 0px 4px 10.4px rgba(0, 0, 0, 0.25);
+  	background: linear-gradient(180deg, #fff 39%, #999);
+  	width: 488.9px;
+  	height: 153.9px;
+  	transform:  rotate(0.1deg);
+  	transform-origin: 0 0;
+}
+.rede-de-afiliados {
+  	position: absolute;
+  	top: 3388px;
+  	left: 243px;
+  	font-size: 40px;
+  	font-family: Iceland;
+  	display: inline-block;
+  	width: 270px;
+  	height: 93px;
+}
+.connection2-512-1-icon {
+  	position: absolute;
+  	top: 3380px;
+  	left: 541px;
+  	width: 108px;
+  	height: 108px;
+  	object-fit: cover;
+}
+.homepage-child23 {
+  	position: absolute;
+  	top: 3164px;
+  	left: 800px;
+  	border-radius: 21px;
+  	background-color: #d8d8d8;
+  	width: 426px;
+  	height: 68px;
+}
+.forma-de-pagamento {
+  	position: absolute;
+  	top: 3190px;
+  	left: 826px;
+  	font-family: JejuGothic;
+}
+.homepage-child24 {
+  	position: absolute;
+  	top: 11px;
+  	left: 0px;
+  	background-color: #f5f6f6;
+  	width: 1440px;
+  	height: 104px;
+}
+.component-5-child {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	border-radius: 8px;
+  	background-color: #8a9283;
+}
+.login {
+  	position: absolute;
+  	top: 22.73%;
+  	left: 27.87%;
+  	font-weight: 500;
+}
+.component-5 {
+  	position: absolute;
+  	top: 39px;
+  	left: 1306px;
+  	width: 122px;
+  	height: 44px;
+  	font-size: 20px;
+  	color: #fff;
+}
+.component-22 {
+  	position: absolute;
+  	top: 54px;
+  	left: 739px;
+  	width: 86px;
+  	height: 18px;
+}
+.component-23 {
+  	align-self: stretch;
+  	position: relative;
+  	height: 19px;
+}
+.component-2-wrapper {
+  	width: 109px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 10px;
+  	box-sizing: border-box;
+}
+.quem-somos15 {
+  	position: absolute;
+  	top: 21.21%;
+  	left: 0%;
+  	font-weight: 500;
+  	white-space: pre-wrap;
+}
+.component-24 {
+  	width: 161px;
+  	position: relative;
+  	background-color: #fff;
+  	height: 33px;
+}
+.component-24-wrapper {
+  	align-self: stretch;
+  	height: 36px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: center;
+  	padding: 10px;
+  	box-sizing: border-box;
+}
+.component-24-container {
+  	align-self: stretch;
+  	height: 30px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: center;
+  	padding: 10px;
+  	box-sizing: border-box;
+  	margin-top: -50px;
+  	position: relative;
+}
+.component-24-frame {
+  	align-self: stretch;
+  	height: 35px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: center;
+  	padding: 10px;
+  	box-sizing: border-box;
+  	margin-top: -50px;
+  	position: relative;
+}
+.instance-parent {
+  	align-self: stretch;
+  	height: 1px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	opacity: 0;
+}
+.frame-parent {
+  	position: absolute;
+  	top: 44px;
+  	left: 617px;
+  	width: 111px;
+  	height: 39px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+}
+.component-25 {
+  	position: absolute;
+  	top: 54px;
+  	left: 505px;
+  	width: 96px;
+  	height: 19px;
+}
+.component-26 {
+  	position: absolute;
+  	top: 54px;
+  	left: 366px;
+  	width: 117px;
+  	height: 19px;
+}
+.component-243 {
+  	position: absolute;
+  	top: 54px;
+  	left: 845px;
+  	width: 213px;
+  	height: 18px;
+}
+.component-251 {
+  	position: absolute;
+  	top: 54px;
+  	left: 1066px;
+  	width: 61px;
+  	height: 18px;
+}
+.component-261 {
+  	position: absolute;
+  	top: 54px;
+  	left: 1139px;
+  	width: 154px;
+  	height: 18px;
+}
+.captura-de-tela-2024-08-12-164 {
+  	position: absolute;
+  	top: 7px;
+  	left: 0px;
+  	width: 343px;
+  	height: 95px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-09-09-172 {
+  	position: absolute;
+  	top: 3669px;
+  	left: 73px;
+  	border-radius: 17px;
+  	width: 625px;
+  	height: 336px;
+  	object-fit: cover;
+}
+.tem-dvidas {
+  	margin: 0;
+  	font-size: 32px;
+}
+.tem-dvidas-fale-container {
+  	position: absolute;
+  	top: 3752px;
+  	left: 108px;
+  	display: inline-block;
+  	color: #fff;
+  	width: 269px;
+  	height: 160px;
+  	font-size: 24px;
+}
+.captura-de-tela-2024-07-28-195 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 1102px;
+  	height: 551px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-07-28-1951 {
+  	position: absolute;
+  	top: 0px;
+  	left: 1342px;
+  	width: 1102px;
+  	height: 551px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-07-28-1952 {
+  	position: absolute;
+  	top: 0px;
+  	left: 2684px;
+  	width: 1102px;
+  	height: 551px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-07-28-1953 {
+  	position: absolute;
+  	top: 0px;
+  	left: 5305px;
+  	width: 1102px;
+  	height: 551px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-07-28-1954 {
+  	position: absolute;
+  	top: 0px;
+  	left: 6647px;
+  	width: 1071px;
+  	height: 551px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-07-28-1955 {
+  	position: absolute;
+  	top: 0px;
+  	left: 7958px;
+  	width: 1071px;
+  	height: 551px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-07-28-1956 {
+  	position: absolute;
+  	top: 0px;
+  	left: 9269px;
+  	width: 1071px;
+  	height: 551px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-07-28-201 {
+  	position: absolute;
+  	top: 0px;
+  	left: 3994px;
+  	width: 1071px;
+  	height: 551px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-07-28-195-parent {
+  	position: absolute;
+  	top: 0px;
+  	left: -32px;
+  	width: 10340px;
+  	height: 551px;
+}
+.component-63 {
+  	position: absolute;
+  	top: 867px;
+  	left: 186px;
+  	box-shadow: 0px 4px 13px rgba(0, 0, 0, 0.25);
+  	background-color: #fff;
+  	width: 1071px;
+  	height: 551px;
+  	overflow: hidden;
+}
+.vitamina-c {
+  	position: absolute;
+  	top: 45px;
+  	left: 416px;
+  	font-weight: 800;
+  	display: inline-block;
+  	width: 333px;
+}
+.frutas-ctricas-laranjas-container {
+  	position: absolute;
+  	top: 138px;
+  	left: 459px;
+  	font-size: 24px;
+  	font-family: JejuGothic;
+  	text-align: left;
+  	display: inline-block;
+  	width: 628px;
+  	height: 282px;
+}
+.lasfrutasmassanas660x495-1200x-icon {
+  	position: absolute;
+  	top: 86px;
+  	left: 23px;
+  	width: 403px;
+  	height: 355px;
+  	object-fit: cover;
+}
+.cido-ascrbico-o {
+  	position: absolute;
+  	top: 473px;
+  	left: 411px;
+  	font-size: 15px;
+  	font-weight: 800;
+  	display: inline-block;
+  	width: 438px;
+  	height: 63px;
+}
+.isolated-white-mug-free-png-1-icon {
+  	position: absolute;
+  	top: 340px;
+  	left: 849px;
+  	width: 266px;
+  	height: 196px;
+  	object-fit: cover;
+}
+.shake-longiviicel {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	display: inline-block;
+  	width: 149px;
+  	height: 66px;
+}
+.mask-group {
+  	position: absolute;
+  	top: 408px;
+  	left: 907px;
+  	width: 149px;
+  	height: 66px;
+  	font-size: 20px;
+  	color: rgba(0, 0, 0, 0.62);
+  	font-family: 'Irish Grover';
+}
+.vitamina-c-parent {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #156b00;
+  	width: 1099px;
+  	height: 526px;
+  	overflow: hidden;
+}
+.alimentos-de-origem {
+  	font-family: Jaldi;
+}
+.alimentos-de-origem-animal-f {
+  	margin-block-start: 0;
+  	margin-block-end: 14px;
+}
+.alimentos-de-origem-container {
+  	position: absolute;
+  	top: 126px;
+  	left: 446px;
+  	text-align: left;
+  	display: inline-block;
+  	width: 620px;
+  	height: 282px;
+  	font-family: Jaldi;
+}
+.isolated-white-mug-free-png-1-icon1 {
+  	position: absolute;
+  	top: 305px;
+  	left: 821px;
+  	width: 348px;
+  	height: 253px;
+  	object-fit: cover;
+}
+.shake-longiviicel1 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	display: inline-block;
+  	width: 209px;
+  	height: 97.2px;
+}
+.mask-group1 {
+  	position: absolute;
+  	top: 393.23px;
+  	left: 890.06px;
+  	width: 209px;
+  	height: 97.2px;
+  	color: rgba(0, 0, 0, 0.62);
+  	font-family: 'Irish Grover';
+}
+.biotina {
+  	position: absolute;
+  	top: 40px;
+  	left: 356px;
+  	font-size: 36px;
+  	font-weight: 800;
+  	display: inline-block;
+  	width: 333px;
+}
+.alimentos-de-origem-animal-f-parent {
+  	position: absolute;
+  	top: 0px;
+  	left: 1212px;
+  	background-color: #4a6085;
+  	width: 1099px;
+  	height: 526px;
+  	overflow: hidden;
+  	font-size: 24px;
+}
+.frame-group {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 2311px;
+  	height: 526px;
+}
+.component-67 {
+  	position: absolute;
+  	top: 1567px;
+  	left: 171px;
+  	background-color: #fff;
+  	width: 1099px;
+  	height: 526px;
+  	overflow: hidden;
+  	text-align: center;
+  	font-size: 36px;
+  	color: #fff;
+  	font-family: 'Inknut Antiqua';
+}
+.homepage {
   	width: 100%;
   	position: relative;
-  	background-color: #ffbd6f;
-  	height: 4545px;
+  	background-color: #f5f6f6;
+  	height: 6397px;
   	overflow: hidden;
   	text-align: left;
-  	font-size: 36px;
+  	font-size: 16px;
   	color: #000;
-  	font-family: Inder;
+  	font-family: Inter;
 }
-
 
 body {
   	margin: 0;
@@ -610,7 +1365,8 @@ body {
 }
 
 
-	</style>
+
+    </style>
   	
 </body>
 </html>
